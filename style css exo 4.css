@@ -1,0 +1,28 @@
+.jaune{
+    width: 60%;
+    height: 40%;
+    padding-left: 5px ;
+    padding-right: 15px;
+    border: 70px;
+    background-color:#FCD116 ;
+}
+.bleu{
+    width: 60%;
+    height: 20%;
+    padding-left: 5px ;
+    padding-right: 15px;
+    border: 300px;
+    background-color: #003693;
+}
+.rouge{
+    width: 60%;
+    height: 20%;
+    padding-left: 5px ;
+    padding-right: 15px;
+    border: 300px;
+    background-color: #CE1126;
+}
+h3{
+    border: 20px ;
+    background-color: antiquewhite;
+}
